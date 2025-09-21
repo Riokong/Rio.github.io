@@ -23,8 +23,8 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    #url: /files/cv.pdf
+    #url: /cv/
+    url: /files/Tengrui_CV.pdf
 
 
   - title: "Publications"
