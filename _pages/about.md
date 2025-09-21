@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
- ![Illustration]({{ '/images/Sandy_Tech-20_Single-04.jpg' | relative_url }}){:.align-right width="300px"}
+ <img src="{{ '/images/Sandy_Tech-20_Single-04.jpg' | relative_url }}"
+     alt="Illustration"
+     class="align-right"
+     width="300" />
 👨‍💻 About Me
 
 I am a final-year graduate student in Computer Science at Missouri University of Science and Technology (Missouri S&T), specializing in Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP). Motivated by a passion for science, personal growth, and the pursuit of becoming a researcher, I bring an interdisciplinary background that combines engineering, finance, and computer science.
