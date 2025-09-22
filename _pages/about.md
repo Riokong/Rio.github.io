@@ -16,7 +16,7 @@ I am a graduate student in Computer Science at Missouri University of Science an
 
 I hold a Bachelor’s degree in Communication Engineering and a Master’s degree in Finance, but during my previous career I discovered a strong interest in coding and artificial intelligence. Driven by curiosity, I self-taught Python, Java, C++, and core computer science fundamentals before beginning my graduate studies at Missouri S&T.
 
-My coursework has focused on deep learning, machine learning, and mathematical foundations—including Probability and Application in Computing—which together provide a strong basis for advanced research in AI. Guided by curiosity and determination, I continue to dive deeper into this field with the goal of contributing meaningful research.
+My coursework has focused on deep learning, machine learning, and mathematical foundations—including Probability and Application in Computing—which together provide a strong basis for advanced research in AI. Since September 2024, I have also been a research member of the Human-Centered AI Lab, advised by Dr. Huiyuan Yang, where I contribute to projects at the intersection of time series forecasting, natural language processing, reasoning, and trustworthy AI. Guided by curiosity and determination, I continue to deepen my expertise in these areas with the goal of advancing meaningful and impactful research.
 
 ## **✨Research Interests**
 
