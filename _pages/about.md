@@ -16,13 +16,13 @@ I am a graduate student in Computer Science at Missouri University of Science an
 
 I hold a Bachelor’s degree in Communication Engineering and a Master’s degree in Finance, but during my previous career I discovered a strong interest in coding and artificial intelligence. Driven by curiosity, I self-taught Python, Java, C++, and core computer science fundamentals before beginning my graduate studies at Missouri S&T.
 
-My coursework has focused on deep learning, machine learning, and mathematical foundations—including Probability and Application in Computing—which together provide a strong basis for advanced research in AI. Since September 2024, I have also been a research member of the Human-Centered AI Lab, advised by Dr. Huiyuan Yang, where I contribute to projects at the intersection of time series forecasting, natural language processing, reasoning, and trustworthy AI.
+I have built a strong foundation in computer science through coursework such as Natural Language Processing, Analysis of Algorithms, Introduction to Deep Learning, Foundations of Data Management, Scientific Programming with Python, Introduction to Machine Learning, Large Language Models, and Probability and Applications in Computing. Together, these courses have equipped me with both theoretical knowledge and practical skills across algorithms, programming, and AI.
 
-In addition, under the guidance of Dr. Suman Maity in my NLP course, I worked on the SciTable project, which led to a manuscript in preparation, further strengthening my research experience in scientific data processing and text generation. Guided by curiosity and determination, I continue to deepen my expertise in these areas with the goal of advancing meaningful and impactful research.
+Since September 2024, I have also been a research member of the Human-Centered AI Lab, advised by Dr. Huiyuan Yang, where I contribute to projects at the intersection of time series forecasting, natural language processing, reasoning, and trustworthy AI. In addition, under the guidance of Dr. Suman Maity in my NLP course, I worked on the SciTable project, which has led to a manuscript in preparation and further strengthened my research experience in scientific data processing and text generation. Guided by curiosity and determination, I continue to deepen my expertise in these areas with the goal of advancing meaningful and impactful research.
 
 ## **✨Research Interests**
 
-My research explores ML, AI, and HCI, focusing on trustworthy LLM reasoning and applications such as time series forecasting, with the aim of solving real-world problems and creating technologies that are human-centered and beneficial to society.
+My research interests span NLP, ML, AI, and HCI, with a focus on trustworthy LLM reasoning and time series forecasting. I aim to build human-centered technologies that address real-world challenges and advance AI for social good
 
 ## **✨Community**
 
