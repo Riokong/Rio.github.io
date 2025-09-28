@@ -22,7 +22,7 @@ Since September 2024, I have also been a research member of the Human-Centered A
 
 ## **✨Research Interests**
 
-My research interests span NLP, ML, AI, and HCI, with a focus on trustworthy LLM reasoning and time series forecasting. I aim to build human-centered technologies that address real-world challenges and advance AI for social good
+My research interests span NLP, ML, AI, and HCI. I aim to build human-centered technologies that address real-world challenges and advance AI for social good
 
 ## **✨Community**
 
