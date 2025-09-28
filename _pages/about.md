@@ -22,7 +22,7 @@ In addition, under the guidance of Dr. Suman Maity in my NLP course, I worked on
 
 ## **✨Research Interests**
 
-My research interests focus on advancing NLP and enhancing LLM reasoning, building trustworthy models, and integrating time series forecasting.
+My research explores ML, AI, and HCI, focusing on trustworthy LLM reasoning and applications such as time series forecasting, with the aim of solving real-world problems and creating technologies that are human-centered and beneficial to society.
 
 ## **✨Community**
 
